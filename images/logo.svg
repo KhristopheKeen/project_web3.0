@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg894"
+   width="369"
+   height="94"
+   viewBox="0 0 369 94"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   inkscape:export-filename="C:\pr0\project_web3.0\client\images\logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata900">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs898" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     id="namedview896"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="3.3252033"
+     inkscape:cx="188.32373"
+     inkscape:cy="83.08802"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g902" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g902">
+    <path
+       d="M 55.125896,2.2397145 17.151427,9.6806602 C 16.527278,9.8029522 16.06516,10.331892 16.02751,10.966668 l -2.335963,39.452463 c -0.05494,0.929252 0.798456,1.650457 1.705399,1.44129 L 25.96958,49.420434 c 0.989215,-0.22813 1.883049,0.643113 1.679739,1.637907 l -3.141111,15.381494 c -0.211398,1.035231 0.760527,1.92042 1.771494,1.613362 l 6.530156,-1.984002 c 1.012363,-0.307336 1.985123,0.580364 1.770936,1.616432 l -4.991811,24.160881 c -0.312353,1.511293 1.697869,2.335405 2.536205,1.039694 l 0.560009,-0.86539 30.943707,-61.753553 c 0.518176,-1.033975 -0.375383,-2.212973 -1.511012,-1.993822 l -10.882758,2.100359 c -1.022681,0.197172 -1.892811,-0.755227 -1.604163,-1.755794 L 56.733965,3.9946117 C 57.022888,2.9923598 56.149691,2.0391322 55.125896,2.2397145 Z"
+       fill="url(#paint1_linear)"
+       id="path4"
+       style="fill:#00bfff;stroke-width:0.278888" />
+    <text
+       xml:space="preserve"
+       style="font-size:85.3333px;line-height:1.25;font-family:sans-serif"
+       x="24.50856"
+       y="72.581909"
+       id="text1478"><tspan
+         sodipodi:role="line"
+         id="tspan1476"
+         x="24.50856"
+         y="72.581909"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.3333px;font-family:'Curlz MT';-inkscape-font-specification:'Curlz MT Bold';fill:#ffffff">Agro Volt</tspan></text>
+  </g>
+</svg>
